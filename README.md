@@ -1,10 +1,14 @@
-# The Bible
+# biblepy
 
 The King James version of the Bible, and a convenient library to access it.
 
+## Installation
+
+```pip install biblepy```
+
 ## API
 
-```
+```python
 from bible import KJV
 
 bible = KJV()
